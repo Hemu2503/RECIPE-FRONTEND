@@ -1,2 +1,2 @@
 // export const BASE_URL = "http://localhost:5500"
-export const BASE_URL = "https://recipe-backend-2-7q0h.onrender.com"
+export const BASE_URL = "https://recipe-backend-1-ns74.onrender.com"
